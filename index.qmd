@@ -1,6 +1,6 @@
 ---
-title: "Making shareable documents with Quarto"
-subtitle: "Create open-source tutorials, onboarding docs, and much more"
+title: "Anubhav Dhiman"
+subtitle: "Notes of data science, open source, and much more"
 ---
 
 ## Welcome {#welcome}
@@ -39,8 +39,10 @@ A few Quarto websites from Openscapes - so far we have been using Quarto for doc
 -   [Faylab Lab Manual](https://thefaylab.github.io/lab-manual/)
 -   [A Quarto tip a day](https://mine-cetinkaya-rundel.github.io/quarto-tip-a-day/), by Mine Çetinkaya-Rundel
 
-## About
+## About me
 
-[Openscapes](https://openscapes.org) is about better science for future us. We help researchers reimagine data analysis, develop modern skills that are of immediate value to them, and cultivate collaborative and inclusive research teams as part of the broader global open movement.
+Hi there! I’m currently a Data Scientist at [Roland Berger](https://www.rolandberger.com/en/), living and working in the vibrant city of Hamburg. I created this space to share my thoughts and insights on the fascinating world of data science whenever inspiration strikes.
 
-We're developing this tutorial to help folks with different levels of technical skills use [Quarto](https://quarto.org) for documentation and tutorial building. This tutorial was originally created for several different audiences: [NASA-Openscapes](https://nasa-openscapes.github.io) researcher support engineers using Python, communications directors at organizations promoting open science who do not identify as coders, and fisheries scientists curious about transitioning from RMarkdown. We're hoping it's useful to folks with backgrounds as wide as these; if you find it useful or have suggestions for improvement, please let us know by clicking "Edit this page" or "Report an issue" at the upper right side of any page.
+I graduated from the Indian Institute of Technology Kharagpur, earning both my bachelor’s and master’s degrees in mechanical engineering. Before diving into consulting and data science, I was captivated by bayesian inference, numerical methods, and financial mathematics. My passion for these subjects led me to pursue a Master’s degree in Data Science from the University of Applied Sciences Berlin, where I focused deeply on these areas.
+
+I’d love to connect with fellow enthusiasts! If you want to reach out, feel free to find me on [LinkedIn](https://www.linkedin.com/in/zdhiman/). Let’s share ideas and insights!
